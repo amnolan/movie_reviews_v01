@@ -1,0 +1,133 @@
+#banner{
+	background-image: url("http://YOUR_SITE_HERE/bannerbackground.png");
+    background-repeat: repeat;
+    height: 50px;
+}
+
+#title{
+	font-size: 24pt;
+	font-weight: bold;
+	font-family: Tahoma, Verdana, Sans-Serif;
+}
+
+.general_text{
+	font-size: 8pt;
+	font-family: Verdana, Tahoma, Sans-Serif;
+}
+
+#page_body{
+	background-image: url("http://YOUR_SITE_HERE/background.png");
+	background-repeat: repeat;
+	height: 83px;
+}
+
+#inner_body{
+	border-color: gray;
+	border-width: 4px;
+	border-style: solid;
+	width: 800px
+}
+
+#rating_header{
+	background-image: url("http://YOUR_SITE_HERE/rottenbackground.png");
+	background-repeat: repeat-x;
+	width: 550px;
+}
+
+.stinker_font{
+	vertical-align: top;
+	font-size: 48pt;
+	font-weight: bold;
+	color: red;
+	font-family: Verdana, Tahoma, Sans-Serif;
+}
+
+.reviews_total{
+	vertical-align: super;
+	color: white;
+}
+
+.comments{
+	clear: both;
+	font-weight: bold;
+	border-width: 2px;
+	border-style: solid;
+	border-color: gray;
+	background-color: #E1D697;
+	padding: 8px;
+}
+
+.icons{
+	padding-right: 5px;
+	float: left;
+}
+
+.center_x{
+	margin: auto;
+	display: block;
+}
+
+.center_x_text{
+	width: 100%;
+	text-align: center;
+}
+
+.columns{
+	width: 550px;
+}
+
+.column {
+	float: left;
+	margin-left: 2%;
+	margin-top: 2%;
+	width: 47%;
+}
+
+.right_column{
+	width: 250px;
+	background-color: #A2B964;
+	float: right;
+}
+
+.after{
+	padding: 5px;
+	margin-bottom: 0px;
+	text-align: center;
+	background-color: #A2B964;
+	clear: both;
+}
+
+.overflow{
+	overflow: hidden;
+}
+
+.overflow_vis{
+	overflow: visible;
+}
+
+.reviewer{
+	margin-top: 5px;
+}
+
+.spacing_bottom{
+	margin-bottom: 3em;
+}
+.reviewer_icon{
+	margin: 5px;
+	float: left;
+}
+
+div.movie_info > dl{
+	padding-left: 10px;
+	padding-right: 10px;
+	font-family: Arial, Sans-Serif;
+}
+
+.publication{
+	font-style: italic;
+}
+
+dt {
+	font-weight: bold;
+	margin-top: 1em;
+}
